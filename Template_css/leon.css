@@ -20,16 +20,9 @@ html {
 body {
     font-family: 'Work Sans', sans-serif;
 }
+/* End Globel Rules */
 
-.container {
-    padding-left:15px ;
-    padding-right: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    text-transform: capitalize;
-}
-
-/* Media qoure */
+/* Media Qoure */
 /* small screen */
 @media (min-width:768px) {
     .container {width:750px;}
@@ -45,7 +38,6 @@ body {
         width: 1170px;
     }
 }
-/* End Globel Rules */
 
 /* Start Header  */
 .header {
