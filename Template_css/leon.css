@@ -20,6 +20,14 @@ html {
 body {
     font-family: 'Work Sans', sans-serif;
 }
+ul {list-style: none;
+}
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 /* End Globel Rules */
 
 /* Media Qoure */
@@ -82,7 +90,6 @@ width: 100%;
 }
 .header .links ul {
     position: absolute;
-list-style: none;
 margin:0 ;
 padding: 0;
 min-width: 200px;
